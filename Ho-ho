@@ -1,3 +1,6 @@
-#hjvjhvjvh
+ 4.Рівень конверсії в групах A та B
+cr_A = conv_A / users_A
+cr_B = conv_B / users_B
 
-Якщо я тут щось пишу ви теж бачите???
+print("CR A:", cr_A)
+print("CR B:", cr_B)
